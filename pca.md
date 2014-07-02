@@ -2,7 +2,7 @@
 
 PCA serve para obter os dados 
 
-Testando $x = 2$
+Testando $$x = 2$$
 
 ## Introdução
 
