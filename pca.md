@@ -22,7 +22,6 @@ Outro problema que o PCA resolve é a análise exploratória de dados.
 
 </td></tr></table>
 
-
 Testando \\(x = 2\\)
 
 ## Introdução
