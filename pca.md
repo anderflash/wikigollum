@@ -2,6 +2,11 @@
 <style>.exemploheader{font-weight:bold;}</style>
 Imagine que você tem vários dados de várias dimensões e você gostaria de reduzir a quantidade de informações mantendo o máximo possível as características principais do modelo que gerou os dados.
 
+{{{{{{{ blue-modern
+  alice->bob: Test
+  bob->alice: Test response
+}}}}}}}
+
 <table><tr><td>
 <span class="exemploheader">Um exemplo:</span><br>
 Imagine que você queira representar um conjunto de pontos em 2D em uma linha 1D. Bom, uma informação importante a ser inserida é a média. Outra informação importante é a variância. Se os dados estão muito dispersos, seria legal guardar o máximo possível essa dispersão na linha.
