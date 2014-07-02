@@ -2,7 +2,7 @@
 
 ## Estudando
 
-- [PCA](Principal Component Analysis)
+- [PCA](Principal Component Analysis PCA)
 
 ### Sei lá
 
