@@ -2,8 +2,8 @@
 
 ## Estudando
 
-- [PCA](Principal Component Analysis PCA)
-- [HMM](Hidden Markov Model HMM)
+- [PCA](pca)
+- [HMM](hmm)
 
 ### Sei lá
 
